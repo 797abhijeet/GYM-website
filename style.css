@@ -1,0 +1,40 @@
+
+h1{
+    color: rgb(138, 241, 224);
+    font-size:100px;
+    font-family: Papyrus;
+    font-weight: bolder;
+    text-align: center;
+}
+h2{
+    border-block-color: blue;
+    font-family: Goudy Old Style;
+    font-size:50px;
+    font-weight: bolder;
+}
+#h{
+    border: 1px solid;
+    width: fit-content;
+    text-align: center;
+    margin: auto;
+}
+#g{
+    border: 1px solid rgb(245, 245, 245) ;
+    width: fit-content;
+    margin: auto;
+    text-align: center;
+}
+.navbar{border: 1px solid whitesmoke;
+    display:inline-block;
+}
+.navbar li{
+    display:inline-block;
+    font-size: 30px;
+}
+.navbar li a { font-family: Goudy Old Style;
+    
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    margin: auto;
+}
